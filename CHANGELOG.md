@@ -10,3 +10,4 @@ All notable changes to this project will be documented in this file.
 - Created `Requirements.txt` capturing project core dependencies.
 - Added base Next.js folders: `src/app`, `src/components`, `src/lib`, `prisma`, `public`.
 - Initialized `package.json` and downloaded Developer A dependencies from `Requirements.txt`.
+- Executed Phase 3 workflow by merging Developer A frontend features (`feature/frontend-auth`) into `main`.
