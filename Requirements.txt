@@ -1,0 +1,25 @@
+# Next.js & React Core
+next
+react
+react-dom
+
+# Database & ORM
+prisma
+@prisma/client
+
+# Authentication
+next-auth
+bcrypt
+
+# Utilities & Services
+resend
+zod
+
+# Developer Dependencies (TypeScript, Typings, Styling)
+typescript
+@types/node
+@types/react
+@types/react-dom
+tailwindcss
+postcss
+autoprefixer
